@@ -1,0 +1,21 @@
+/* :root{
+    --bg-color: #fdf6f0;
+    --primary-color: #4e342e;
+    --secondary-color: #f9a825;
+    --highlight-color: #fff3e0;
+    --text-color: #3e2723;
+    --white: #ffffff;
+
+    --font-main: 'Poppins', sans-serif;
+} */
+
+:root{
+    --bg-color: #f0f4f8;
+    --primary-color: #1f2937;
+    --secondary-color: #007acc;
+    --highlight-color: #e2e8f0;
+    --text-color: #374151;
+    --white: #ffffff;
+
+    --font-main: 'Poppins', sans-serif;
+}
