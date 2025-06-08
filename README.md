@@ -31,8 +31,9 @@ Each project card showcases:
 
 ## 🚀 Getting Started
 
+
 To run the portfolio locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shamia702/your-portfolio-repo.git
+git clone https://github.com/Shamia702/My-Portfolio.git
